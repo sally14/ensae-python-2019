@@ -21,3 +21,10 @@ Puis pour activer l'environnement et lancer un les notebooks:
 source activate ml_base
 jupyter-notebook ./ensae-python-2019
 ```
+
+## Plan indicatif des TD
+
+1. TD 1 : bases ML et premier exercice de classification
+2. TD 2 : métriques d'évaluation, régression
+3. TD 3 : boosting, tuning des hyperparamètres
+4. TD 4 : réseaux de neurones, traitement de texte
