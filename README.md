@@ -24,7 +24,7 @@ jupyter-notebook ./ensae-python-2019
 
 ## Plan indicatif des TD
 
-1. [x] TD 1 : bases ML et premier exercice de classification
-2. [x] TD 2 : métriques d'évaluation, régression
+1. [x] TD 1 : bases ML et premier exercice de classification, métriques d'évaluation en classification
+2. [x] TD 2 : métriques d'évaluation en régression, régression, forêts aléatoires
 3. [ ] TD 3 : boosting, tuning des hyperparamètres
 4. [ ] TD 4 : réseaux de neurones, traitement de texte
