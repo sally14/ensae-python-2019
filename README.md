@@ -1,6 +1,10 @@
 # ensae-python-2019
 
 
+## Teaching page:
+
+Vous pouvez trouver la page qui rassemble les TD ici : https://sally14.github.io/teaching/teachings.html
+
 ## Getting started
 
 
